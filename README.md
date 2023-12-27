@@ -4,6 +4,8 @@
     <strong>NGL - Nefariously Generated Links 😈🔗</strong><br/><br>
     <h4 align="center">Phishing tool for Instagram, cloaked as NGL - Anonymous questions link app 😬</h4>
   </h3><br/><br><br>
+  <h4>Video Tutorials on my instagram highlights: <a href="https://www.instagram/hax.gsr">@hax.gsr</a></h4>
+  <br/><br/>
   <h3>How To Use:</h3><br>
   <p>1. Visit the NGL+ signup page and enter your instagram username: <a href="https://ngliink.web.app/signup.html" target="_blank">NGL+ Signup Page</a> 🔗</p><br>
   <p>2. Click the profile picture and change it to the one belonging to your instagram profile. 📷</p><br>
@@ -21,6 +23,3 @@
 </p>
 
 <br><br>
-<h3>
-  Video Tutorials on my instagram highlights: <a href="https://www.instagram/hax.gsr">@hax.gsr</a>
-</h3>
