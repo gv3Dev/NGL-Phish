@@ -18,5 +18,9 @@
   <p>5. Enter <b>NGL.LINK</b> or something like that 🔗</p><br/>
   <p>6. Place the link sticker on top of the placeholder that says "Paste your link here" & completely cover it. 🙌</p><br>
   <p>7. Share your story, and await user responses. ⏳</p><br><br>
-  
 </p>
+
+<br><br>
+<h3>
+  Video Tutorials on my instagram highlights: <a href="https://www.instagram/hax.gsr">@hax.gsr</a>
+</h3>
