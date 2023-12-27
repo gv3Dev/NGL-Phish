@@ -28,9 +28,9 @@
 </p>
 
 <br>
-<p align="left">
-  <img width="500px" src="https://raw.githubusercontent.com/gsrhax/NGL-Nefariously-Generated-Links/main/imgs/screenshot.jpg"/>
-  <img width="355px" src="https://github.com/gsrhax/NGL-Nefariously-Generated-Links/blob/main/imgs/launcher.jpg"/>
+<p align="left" width="100%">
+  <img width="40%" src="https://raw.githubusercontent.com/gsrhax/NGL-Nefariously-Generated-Links/main/imgs/screenshot.jpg"/>
+  <img width="30%" src="https://github.com/gsrhax/NGL-Nefariously-Generated-Links/blob/main/imgs/launcher.jpg"/>
 </p>
 
 <br><br>
