@@ -1,5 +1,5 @@
 <br/>
-<h2>This project's servers have been taken down due to costs. If you would like NGL+ to be brought back, please drop a star (⭐) and get this repository to 50+ stars and I will bring it back. 🙏<br/><br/></h2><br/>
+<h2>This project's servers have been taken down due to costs. If you would like NGL+ to be brought back, please drop a star (⭐) and get this repository to 30 stars and I will bring it back. 🙏<br/><br/></h2><br/>
 
 
 
