@@ -9,7 +9,6 @@
     <strong>NGL - Nefariously Generated Links 😈🔗</strong><br/><br>
     <h4 align="center">Phishing tool for Instagram, cloaked as NGL - Anonymous questions link app 😬</h4>
   </h3><br/><br><br>
-  <h4>Video Tutorials on my instagram highlights: <a href="https://www.instagram.com/hax.gsr">@hax.gsr</a></h4>
   <br/><br/>
   <h3>What is this tool?</h3><br>
   <p>
