@@ -1,5 +1,9 @@
 # NGL - Nefariously Generated Links 😈🔗
 
+**Note:** Please wait until the application is fully rewritten in React and Snapchat functionality is added. Stay tuned for updates.
+
+**Remember: Ethical behavior in cybersecurity research is paramount. Use this tool responsibly and with the highest regard for legal and ethical standards.**
+
 <p align="center">
   <img width="400px" src="https://raw.githubusercontent.com/gsrhax/NGL-Not-Good-Links/main/imgs/ngl-phish.png"/>
 </p>
@@ -52,6 +56,3 @@ By accessing and using this tool, you acknowledge and agree:
 
 By proceeding to use this tool, you affirm that you have read, understood, and agree to abide by the terms of this disclaimer. If you do not agree with these terms, refrain from using the tool.
 
-**Note:** Please wait until the application is fully rewritten in React and Snapchat functionality is added. Stay tuned for updates.
-
-**Remember: Ethical behavior in cybersecurity research is paramount. Use this tool responsibly and with the highest regard for legal and ethical standards.**
